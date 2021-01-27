@@ -1,0 +1,31 @@
+{
+  "name": "static-node-express-site",
+  "version": "1.0.0",
+  "description": "A personal portfolio created with Express and Pug",
+  "main": "app.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeeVaughn/static-node-express-site.git"
+  },
+  "keywords": [
+    "Treehouse",
+    "project"
+  ],
+  "author": "Daniel Lee Vaughn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeeVaughn/static-node-express-site/issues"
+  },
+  "homepage": "https://github.com/LeeVaughn/static-node-express-site#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "pug": "^2.0.3"
+  }
+}

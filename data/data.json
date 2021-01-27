@@ -1,0 +1,49 @@
+{
+  "projects": [
+    {
+      "id": 0,
+      "project_name": "Random Quote Generator",
+      "description": "This application displays random programming, learning, or success related quotes whenver the button is clicked or every ten seconds",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "live_link": "https://leevaughn.github.io/random-quote-generator/",
+      "github_link": "https://github.com/LeeVaughn/random-quote-generator",
+      "image_urls": ["/images/p0-landing.jpg", "/images/p0-landscape.jpg"]
+    },
+    {
+      "id": 1,
+      "project_name": "Pagination Filter",
+      "description": "This project uses pagination and filters to improve the user experience for a website containing a list of students",
+      "technologies": ["HTML", "CSS", "JavaScript", "jQuery"],
+      "live_link": "https://leevaughn.github.io/pagination-filter/",
+      "github_link": "https://github.com/LeeVaughn/pagination-filter",
+      "image_urls": ["/images/p1-landing.jpg", "/images/p1-landscape.jpg"]
+    },
+    {
+      "id": "2",
+      "project_name": "Conference Registration Form",
+      "description": "An intereactive registration form utilizing client side validation",
+      "technologies": ["HTML", "CSS", "JavaScript", "jQuery"],
+      "live_link": "https://leevaughn.github.io/interactive-form/",
+      "github_link": "https://github.com/LeeVaughn/interactive-form",
+      "image_urls": ["/images/p2-landing.jpg", "/images/p2-landscape.jpg"]
+    },
+    {
+      "id": "3",
+      "project_name": "Phrase Hunter",
+      "description": "A browser-based word guessing game built using Object-Oriented Programming principles",
+      "technologies": ["HTML", "CSS", "Object-Oriented JavaScript", "jQuery"],
+      "live_link": "https://leevaughn.github.io/phrase-hunter/",
+      "github_link": "https://github.com/LeeVaughn/phrase-hunter",
+      "image_urls": ["/images/p3-landing.jpg", "/images/p4-landscape.jpg"]
+    },
+    {
+      "id": "4",
+      "project_name": "Employee Directory",
+      "description": "Uses the Random User Generator API to create an employee directory for Awesome Startup based on PNG mockups",
+      "technologies": ["HTML", "CSS", "JavaScript", "jQuery", "Bootstrap"],
+      "live_link": "https://leevaughn.github.io/employee-directory.api/",
+      "github_link": "https://github.com/LeeVaughn/employee-directory.api",
+      "image_urls": ["/images/p4-landing.jpg", "/images/p4-landscape.jpg"]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+extends layout.pug
+
+block content
+  article.portfolio-intro
+    h1 My Portfolio
+    p Here are just a few of the cool projects that I have built. Click on an image to learn more about a particular project.
+  article.portfolio-project-thumbs
+    .projects-box.box.grid
+      //- loops over each project in data.json
+      each project in projects
+        .cell
+          a(href="/project/" + project.id)
+            img.thumbnail(src=project.image_urls[0])
+            h5= project.project_name

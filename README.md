@@ -13,7 +13,7 @@ A version of the FSJS Techdegree Project 6 built without Foundation.
 * Main section of landing page displays a preview of projects build
 * The user can click on a project to be shown more details about that project
 * Information on projects stored in a JSON data file
-* App can be launched with the ```npm start``` command
+* App can be launched with the `npm start` command
 
 ## Exceeds CSS Customizations
 
@@ -22,10 +22,10 @@ A version of the FSJS Techdegree Project 6 built without Foundation.
 
 ## To Run
 
-* Download project files by running ```git clone https://github.com/LeeVaughn/static-node-express-site```
+* Download project files by running `git clone https://github.com/LeeVaughn/static-node-express-site`
 * Navigate to the project folder
-* Install dependencies with ```npm install```
-* Type ```npm start``` or ```node app.js``` to run application (application runs on localhost:3000)
+* Install dependencies with `npm install`
+* Type `npm start` or `node app.js` to run application (application runs on localhost:3000)
 
 ## Dependencies
 

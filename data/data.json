@@ -34,7 +34,7 @@
       "technologies": ["HTML", "CSS", "Object-Oriented JavaScript", "jQuery"],
       "live_link": "https://leevaughn.github.io/phrase-hunter/",
       "github_link": "https://github.com/LeeVaughn/phrase-hunter",
-      "image_urls": ["/images/p3-landing.jpg", "/images/p4-landscape.jpg"]
+      "image_urls": ["/images/p3-landing.jpg", "/images/p3-landscape.jpg"]
     },
     {
       "id": "4",
